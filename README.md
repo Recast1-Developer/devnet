@@ -1,12 +1,12 @@
-# DEVnetwork Smart Contract
+# Recastx Smart Contract
 [![Build Status](https://travis-ci.org/devresearch/devnetwork-token.svg?branch=master)](https://travis-ci.org/devresearch/devnetwork-token)
 [![Coverage Status](https://coveralls.io/repos/github/devresearch/devnetwork-token/badge.svg?branch=master)](https://coveralls.io/github/devresearch/devnetwork-token?branch=master)
 
 # Overview
 
-## DEVnetwork Token
+## RecastX Devnet Token
 
-The DEVnetwork Token smart contract `DEVToken.sol` is ERC20-compatible and has the following additional characteristics:
+The Recastnetwork Token smart contract `RecastToken.sol` is ERC20-compatible and has the following additional characteristics:
 
 1. A fixed supply of pre-minted tokens
 2. The ability to burn tokens by a user, removing the tokens from the supply
@@ -14,8 +14,8 @@ The DEVnetwork Token smart contract `DEVToken.sol` is ERC20-compatible and has t
 The token contract includes the following constants:
 
 ```javascript
-    name             = "DEVToken";
-    symbol           = "DEV";
+    name             = "RecastToken";
+    symbol           = "RXY";
     decimals         = 18;
-    INITIAL_SUPPLY   = 400 million DEV
+    INITIAL_SUPPLY   = 400 million RXY
 ```
