@@ -1,6 +1,6 @@
 # Recastx Smart Contract
 [![Build Status](https://travis-ci.org/devresearch/devnetwork-token.svg?branch=master)](https://travis-ci.org/devresearch/devnetwork-token)
-[![Coverage Status](https://coveralls.io/repos/github/devresearch/devnetwork-token/badge.svg?branch=master)](https://coveralls.io/github/devresearch/devnetwork-token?branch=master)
+[![Coverage Status](https://coveralls.io/repos/fog/fog/badge.svg?branch=master)
 
 # Overview
 
